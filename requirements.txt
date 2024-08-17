@@ -1,0 +1,12 @@
+audiocraft==1.4.0a1
+einops==0.8.0
+flash_attn==2.6.3
+googletrans==4.0.0rc1
+huggingface_hub==0.24.5
+langdetect==1.0.9
+modelscope==1.17.1
+numpy==2.0.1
+streamlit==1.30.0
+torch==2.1.0+cu121
+torchaudio==2.1.0+cu121
+transformers==4.44.0
